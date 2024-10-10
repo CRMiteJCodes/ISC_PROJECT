@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MainScreen
+comment1.params=
+comment1.target=void\ FirstScreen()
+comment2.params=
+comment2.target=void\ mainOption()
+comment3.params=ms
+comment3.target=void\ ticketFinalBill(MainScreen)
+comment4.params=ms
+comment4.target=void\ rentFinalBill(MainScreen)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

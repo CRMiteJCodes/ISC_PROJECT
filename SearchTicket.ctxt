@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SearchTicket
+comment1.params=m1
+comment1.target=void\ display1(MainScreen)
+comment2.params=price\ option
+comment2.target=void\ display2(int,\ int)
+comment3.params=
+comment3.target=void\ bill()
+numComments=4
